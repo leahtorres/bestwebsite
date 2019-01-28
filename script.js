@@ -13,8 +13,8 @@ function removeClass(el){
 }
 
 function showEclipse(el) {
-	document.getElementById('left-logo').src = "images/middle.jpg";
-	document.getElementById('middle-logo').src = "images/multiple.jpg";
-	document.getElementById('right-logo').src = "images/middle.jpg";
+	document.getElementById('left-logo').src = "middle.jpg";
+	document.getElementById('middle-logo').src = "multiple.jpg";
+	document.getElementById('right-logo').src = "middle.jpg";
 }
 
